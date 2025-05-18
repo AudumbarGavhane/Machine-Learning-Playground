@@ -13,7 +13,7 @@ Welcome to my **Machine Learning Playground** — a personal space where I explo
 
 ## 📁 Folder Structure
 
-
+```
 Machine-Learning-Playground/
 │
 ├── 📓 notes/
@@ -31,7 +31,7 @@ Machine-Learning-Playground/
 │
 └── README.md
 
-
+```
 
 ---
 
